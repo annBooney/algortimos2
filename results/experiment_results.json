@@ -1,0 +1,246 @@
+[
+    {
+        "nodes": 10,
+        "zones": 3,
+        "algorithms": {
+            "exact": {
+                "time": {
+                    "mean": 0.05130414962768555,
+                    "std": 0.0013457139527864109
+                },
+                "memory": {
+                    "mean": 0,
+                    "std": 0
+                },
+                "hypervolume": {
+                    "mean": 72686.8586024863,
+                    "std": 0
+                },
+                "diversity": {
+                    "mean": 7.781734587783302,
+                    "std": 0
+                },
+                "front_size": {
+                    "mean": 3,
+                    "std": 0
+                }
+            },
+            "heuristic": {
+                "time": {
+                    "mean": 0.0076171875,
+                    "std": 0.0005721349326094201
+                },
+                "memory": {
+                    "mean": 0,
+                    "std": 0
+                },
+                "hypervolume": {
+                    "mean": 72513.17767470129,
+                    "std": 0
+                },
+                "diversity": {
+                    "mean": 0,
+                    "std": 0
+                },
+                "front_size": {
+                    "mean": 6,
+                    "std": 0
+                }
+            },
+            "meta": {
+                "time": {
+                    "mean": 3.328645610809326,
+                    "std": 0.06227302036161894
+                },
+                "memory": {
+                    "mean": 0.4,
+                    "std": 0.894427190999916
+                },
+                "hypervolume": {
+                    "mean": 72686.85860248629,
+                    "std": 1.2602328261483324e-11
+                },
+                "diversity": {
+                    "mean": 0.1572067593491574,
+                    "std": 3.194906681775283e-16
+                },
+                "front_size": {
+                    "mean": 100,
+                    "std": 0
+                }
+            }
+        }
+    },
+    {
+        "nodes": 15,
+        "zones": 3,
+        "algorithms": {
+            "exact": {
+                "time": {
+                    "mean": 367.81408376693724,
+                    "std": 8.824075791411843
+                },
+                "memory": {
+                    "mean": 0,
+                    "std": 0
+                },
+                "hypervolume": {
+                    "mean": 66256.59477490599,
+                    "std": 0
+                },
+                "diversity": {
+                    "mean": 4.095997818228459,
+                    "std": 0
+                },
+                "front_size": {
+                    "mean": 22,
+                    "std": 0
+                }
+            },
+            "heuristic": {
+                "time": {
+                    "mean": 0.017616415023803712,
+                    "std": 0.00044263263540552923
+                },
+                "memory": {
+                    "mean": 0,
+                    "std": 0
+                },
+                "hypervolume": {
+                    "mean": 65651.0713138992,
+                    "std": 0
+                },
+                "diversity": {
+                    "mean": 2.2737541016009065e-14,
+                    "std": 0
+                },
+                "front_size": {
+                    "mean": 6,
+                    "std": 0
+                }
+            },
+            "meta": {
+                "time": {
+                    "mean": 3.0256345748901365,
+                    "std": 0.1227923218683811
+                },
+                "memory": {
+                    "mean": 0,
+                    "std": 0
+                },
+                "hypervolume": {
+                    "mean": 66021.29682481261,
+                    "std": 420.4460912676893
+                },
+                "diversity": {
+                    "mean": 0.8533157158053761,
+                    "std": 0.018006688615738033
+                },
+                "front_size": {
+                    "mean": 100,
+                    "std": 0
+                }
+            }
+        }
+    },
+    {
+        "nodes": 20,
+        "zones": 4,
+        "algorithms": {
+            "heuristic": {
+                "time": {
+                    "mean": 0.08574700355529785,
+                    "std": 0.0031782491638615218
+                },
+                "memory": {
+                    "mean": 0,
+                    "std": 0
+                },
+                "hypervolume": {
+                    "mean": 60485.0129430776,
+                    "std": 0
+                },
+                "diversity": {
+                    "mean": 0.364033004965407,
+                    "std": 0
+                },
+                "front_size": {
+                    "mean": 20,
+                    "std": 0
+                }
+            },
+            "meta": {
+                "time": {
+                    "mean": 3.1558507919311523,
+                    "std": 0.15322385625643048
+                },
+                "memory": {
+                    "mean": 0,
+                    "std": 0
+                },
+                "hypervolume": {
+                    "mean": 56851.45387291982,
+                    "std": 4109.195125273732
+                },
+                "diversity": {
+                    "mean": 1.3252038113708617,
+                    "std": 0.09672112483490575
+                },
+                "front_size": {
+                    "mean": 100,
+                    "std": 0
+                }
+            }
+        }
+    },
+    {
+        "nodes": 25,
+        "zones": 4,
+        "algorithms": {
+            "heuristic": {
+                "time": {
+                    "mean": 0.03866562843322754,
+                    "std": 0.0012946056682778962
+                },
+                "memory": {
+                    "mean": 0,
+                    "std": 0
+                },
+                "hypervolume": {
+                    "mean": 50433.37927602195,
+                    "std": 0
+                },
+                "diversity": {
+                    "mean": 0,
+                    "std": 0
+                },
+                "front_size": {
+                    "mean": 1,
+                    "std": 0
+                }
+            },
+            "meta": {
+                "time": {
+                    "mean": 2.600054168701172,
+                    "std": 0.7005500403989294
+                },
+                "memory": {
+                    "mean": 0,
+                    "std": 0
+                },
+                "hypervolume": {
+                    "mean": 17831.862389676142,
+                    "std": 20533.2548817537
+                },
+                "diversity": {
+                    "mean": 5.737899235805284,
+                    "std": 7.910755446421083
+                },
+                "front_size": {
+                    "mean": 21,
+                    "std": 44.181444068749045
+                }
+            }
+        }
+    }
+]

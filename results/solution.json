@@ -1,0 +1,363 @@
+{
+    "exact": {
+        "time": 1.3514201641082764,
+        "memory": 0,
+        "pareto_front": [
+            {
+                "route": [
+                    0,
+                    7,
+                    14,
+                    13,
+                    4,
+                    11,
+                    3,
+                    9,
+                    2,
+                    8,
+                    5,
+                    10,
+                    1,
+                    6,
+                    12,
+                    0
+                ],
+                "objectives": {
+                    "distance": 343.6137,
+                    "risk": 7.4095,
+                    "recharges": 0
+                },
+                "feasible": true
+            },
+            {
+                "route": [
+                    0,
+                    7,
+                    14,
+                    13,
+                    11,
+                    4,
+                    3,
+                    9,
+                    2,
+                    8,
+                    5,
+                    10,
+                    1,
+                    6,
+                    12,
+                    0
+                ],
+                "objectives": {
+                    "distance": 343.7656,
+                    "risk": 7.3311,
+                    "recharges": 0
+                },
+                "feasible": true
+            },
+            {
+                "route": [
+                    0,
+                    7,
+                    14,
+                    4,
+                    13,
+                    11,
+                    3,
+                    9,
+                    2,
+                    8,
+                    5,
+                    10,
+                    1,
+                    6,
+                    12,
+                    0
+                ],
+                "objectives": {
+                    "distance": 343.5577,
+                    "risk": 7.4298,
+                    "recharges": 0
+                },
+                "feasible": true
+            },
+            {
+                "route": [
+                    0,
+                    7,
+                    14,
+                    11,
+                    13,
+                    4,
+                    3,
+                    9,
+                    2,
+                    8,
+                    5,
+                    10,
+                    1,
+                    6,
+                    12,
+                    0
+                ],
+                "objectives": {
+                    "distance": 345.8773,
+                    "risk": 7.2326,
+                    "recharges": 0
+                },
+                "feasible": true
+            },
+            {
+                "route": [
+                    0,
+                    6,
+                    12,
+                    1,
+                    10,
+                    5,
+                    8,
+                    2,
+                    9,
+                    3,
+                    4,
+                    13,
+                    11,
+                    14,
+                    7,
+                    0
+                ],
+                "objectives": {
+                    "distance": 362.9857,
+                    "risk": 6.9862,
+                    "recharges": 0
+                },
+                "feasible": true
+            },
+            {
+                "route": [
+                    0,
+                    6,
+                    12,
+                    1,
+                    10,
+                    5,
+                    8,
+                    2,
+                    9,
+                    3,
+                    4,
+                    11,
+                    13,
+                    14,
+                    7,
+                    0
+                ],
+                "objectives": {
+                    "distance": 360.874,
+                    "risk": 7.0846,
+                    "recharges": 0
+                },
+                "feasible": true
+            },
+            {
+                "route": [
+                    0,
+                    6,
+                    12,
+                    1,
+                    10,
+                    5,
+                    8,
+                    2,
+                    9,
+                    3,
+                    11,
+                    13,
+                    4,
+                    14,
+                    7,
+                    0
+                ],
+                "objectives": {
+                    "distance": 360.6661,
+                    "risk": 7.1833,
+                    "recharges": 0
+                },
+                "feasible": true
+            },
+            {
+                "route": [
+                    0,
+                    6,
+                    12,
+                    1,
+                    10,
+                    5,
+                    8,
+                    2,
+                    9,
+                    3,
+                    11,
+                    4,
+                    13,
+                    14,
+                    7,
+                    0
+                ],
+                "objectives": {
+                    "distance": 360.7222,
+                    "risk": 7.163,
+                    "recharges": 0
+                },
+                "feasible": true
+            }
+        ],
+        "hypervolume": 61053.51472360345,
+        "diversity": 2.7825546791999853
+    },
+    "heuristic": {
+        "time": 0.006176948547363281,
+        "memory": 0,
+        "pareto_front": [
+            {
+                "route": [
+                    0,
+                    1,
+                    9,
+                    4,
+                    13,
+                    11,
+                    3,
+                    2,
+                    8,
+                    5,
+                    10,
+                    7,
+                    14,
+                    12,
+                    6,
+                    0
+                ],
+                "objectives": {
+                    "distance": 466.3316,
+                    "risk": 8.4961,
+                    "recharges": 0
+                },
+                "feasible": true
+            },
+            {
+                "route": [
+                    0,
+                    5,
+                    10,
+                    1,
+                    6,
+                    12,
+                    14,
+                    13,
+                    11,
+                    3,
+                    2,
+                    8,
+                    9,
+                    4,
+                    7,
+                    0
+                ],
+                "objectives": {
+                    "distance": 428.2803,
+                    "risk": 8.9507,
+                    "recharges": 0
+                },
+                "feasible": true
+            },
+            {
+                "route": [
+                    0,
+                    5,
+                    10,
+                    1,
+                    6,
+                    12,
+                    14,
+                    13,
+                    11,
+                    3,
+                    2,
+                    8,
+                    9,
+                    4,
+                    7,
+                    0
+                ],
+                "objectives": {
+                    "distance": 428.2803,
+                    "risk": 8.9507,
+                    "recharges": 0
+                },
+                "feasible": true
+            },
+            {
+                "route": [
+                    0,
+                    5,
+                    10,
+                    1,
+                    6,
+                    12,
+                    14,
+                    13,
+                    11,
+                    3,
+                    2,
+                    8,
+                    9,
+                    4,
+                    7,
+                    0
+                ],
+                "objectives": {
+                    "distance": 428.2803,
+                    "risk": 8.9507,
+                    "recharges": 0
+                },
+                "feasible": true
+            },
+            {
+                "route": [
+                    0,
+                    5,
+                    10,
+                    1,
+                    6,
+                    12,
+                    14,
+                    13,
+                    11,
+                    3,
+                    2,
+                    8,
+                    9,
+                    4,
+                    7,
+                    0
+                ],
+                "objectives": {
+                    "distance": 428.2803,
+                    "risk": 8.9507,
+                    "recharges": 0
+                },
+                "feasible": true
+            }
+        ],
+        "hypervolume": 52297.29515472411,
+        "diversity": 9.513498060034847
+    },
+    "meta": {
+        "time": 1.582448959350586,
+        "memory": 0,
+        "pareto_front": [],
+        "hypervolume": 0,
+        "diversity": 0
+    }
+}
